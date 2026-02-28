@@ -27,7 +27,7 @@
 
 ## 📫 Connect
 
-- **LinkedIn**: [Tianxiao Xiao](https://www.linkedin.com/in/%E6%B7%BB-%E8%82%96-9b456b15b/)
+- **LinkedIn**: [Tianxiao](https://www.linkedin.com/in/%E6%B7%BB-%E8%82%96-9b456b15b/)
 - **Email**: tianxiao1430-jpg@users.noreply.github.com
 
 ---
